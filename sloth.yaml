@@ -1,0 +1,14 @@
+fn_name: enrich_with_traits
+fn_type: destination
+language: typescript
+debug_port: 5858
+sam_port: 3001
+proxy_port: 3002
+github_deployment: true
+access_token_is_saved: true
+generate_tests: true
+use_ngrok: true
+work_slug: REPLACE_ME
+work_id: REPLACE_ME
+access_token: REPLACE_ME
+tp_name: none
